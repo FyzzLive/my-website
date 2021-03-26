@@ -1,7 +1,7 @@
 {
-  "name": "node-js",
+  "name": "my-website",
   "version": "14.15.0",
-  "description": "Simple Web App",
+  "description": "My Website",
   "main": "node.js",
   "scripts": {
     "start": "node node.js",
@@ -9,8 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FyzzLive/my-website.git"
+    "url": "git+https://github.com/FyzzLive/my-website.git"
   },
   "author": "Keagan Roach",
-  "license": "MIT"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FyzzLive/my-website/issues"
+  },
+  "homepage": "https://github.com/FyzzLive/my-website#readme"
 }
